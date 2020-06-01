@@ -8,8 +8,6 @@ export MEDIA_SDK_PATH_FILE<br>
 Python 分包工具，目前已支持打官方SDK包，广点通、头条、快手
 
 
-##参数说明
-
 ### 通用参数：
 
 
