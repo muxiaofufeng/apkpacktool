@@ -1,5 +1,5 @@
 # apkpacktool
-## 1.配置环境变量CHANNEL_SDK_PATH_FILE=/Users/aaro/IdeaProjects/apkpacktool/sdk/version/channel
+## 配置环境变量CHANNEL_SDK_PATH_FILE=/Users/aaro/IdeaProjects/apkpacktool/sdk/version/channel
 export CHANNEL_SDK_PATH_FILE
 MEDIA_SDK_PATH_FILE=/Users/aaro/IdeaProjects/apkpacktool/sdk/version/media
 export MEDIA_SDK_PATH_FILE
