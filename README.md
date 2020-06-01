@@ -33,7 +33,7 @@ channel_flag	|渠道标识
 server_url| 
 
 
-头条媒体包参数：
+###头条媒体包参数：
 参数|	说明
 ---|---
 partner_id|	渠道id
@@ -59,7 +59,7 @@ media_flag|媒体标识
 media_version|媒体SDK版本
 
 
-广点通媒体包参数：
+###广点通媒体包参数：
 参数|	说明
 ---|---
 partner_id|	渠道id
@@ -86,7 +86,7 @@ media_flag|媒体标识
 media_version|媒体SDK版本
 
 
-快手媒体包参数：
+###快手媒体包参数：
 参数|	说明
 ---|---
 partner_id|	渠道id
@@ -113,7 +113,7 @@ media_flag|媒体标识
 media_version|媒体SDK版本
 
 
-广告包参数：
+###广告包参数：
 参数|	说明
 ---|---
 source_apk|广告母包路径
